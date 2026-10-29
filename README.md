@@ -61,7 +61,6 @@ Ho Chi Minh City, Vietnam
 | [**NhaDatViet**](https://github.com/dinhxuanhieu97/NhaDatViet) | Property listing platform with a headless architecture: advanced search, radius-based map search, listing moderation, role-based permissions, background image processing, full CI. | Laravel · PHP 8.3 · Next.js · MySQL · Redis · Docker · GitHub Actions |
 | [**TalkBuddy**](https://github.com/dinhxuanhieu97/TalkBuddy) | English-learning app. I own the project and shipped it end to end to the App Store: Apple/Google sign-in, text-to-speech, offline mode, 9-language UI. | React Native (Expo) · FastAPI · AWS EC2 & S3 · Docker · GitLab CI/CD |
 | [**TingGo**](https://github.com/dinhxuanhieu97/TingGoApp) | QR menu and real-time ordering for restaurants and cafes. Guests scan the table QR and order; the venue gets the order on their phone, no POS hardware needed. | ASP.NET Core · Next.js · React Native · PostgreSQL · Redis |
-| [**Wayjet-AI**](https://github.com/dinhxuanhieu97/Wayjet-AI) | Website built with Strapi CMS and Next.js. | Strapi · Next.js |
 | [**SanDeal**](https://github.com/dinhxuanhieu97/SanDeal) | Shopee affiliate site: curated deals, daily voucher codes, a paste-a-link deal checker and SEO shopping guides for sale days. | Static HTML · SEO |
 
 ### Live websites
